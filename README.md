@@ -1,6 +1,4 @@
-# Rama Secundaria Git
-
-_Rama secundaria para realizar pruebas en Git_
+# Git
 
 _Repository created for testing purposes in Git_                                                                                                                                  
 
